@@ -1,3 +1,13 @@
+<a href="https://github.com/f5074/f5074">
+  <img src="https://github-readme-stats.vercel.app/api?username=f5074&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f5074&layout=compact&hide=javascript,html,python" />
+</a>
+
+
+
+
+
+
 ### Hi there 👋
 
 <!--
