@@ -5,7 +5,6 @@
 ![](https://img.shields.io/badge/Framework-Android-informational?style=flat&logo=Android&logoColor=white&color=F29400)
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Spring&logoColor=white&color=F29400)
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=F29400)
-![](https://img.shields.io/badge/Language-CSharp-informational?style=flat&logo=CS&logoColor=white&color=F29400)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=F29400)
 
 
