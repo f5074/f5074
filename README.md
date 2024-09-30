@@ -1,5 +1,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oseongryu&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
   <img src="https://img.shields.io/badge/spring-f1f3f5?style=for-the-badge&logo=spring&logoColor=fffff">
   <img src="https://img.shields.io/badge/springboot-f1f3f5?style=for-the-badge&logo=springboot&logoColor=fffff">
   <img src="https://img.shields.io/badge/vue-f1f3f5?style=for-the-badge&logo=vue.js&logoColor=fffff" />
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&color=black" />
 
   <br />
-
+</div>
 <!-- ![](https://img.shields.io/badge/Language-java-informational?style=flat&logo=java&logoColor=white&color=F29400)
 ![](https://img.shields.io/badge/Language-python-informational?style=flat&logo=python&logoColor=white&color=F29400)
 ![](https://img.shields.io/badge/Framework-spring-informational?style=flat&logo=spring&logoColor=white&color=F29400)
