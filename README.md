@@ -1,7 +1,9 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oseongryu&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
 <div>
 
+[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://oseongryu.github.io)](https://oseongryu.github.io)
 
+## Skills
   <img src="https://img.shields.io/badge/Vue.js-f1f3f5?style=flat-square&logo=vue.js&logoColor=fffff" />
   <img src="https://img.shields.io/badge/Nuxt.js-f1f3f5?style=flat-square&logo=nuxt.js&logoColor=fffff" />
   <img src="https://img.shields.io/badge/TypeScript-f1f3f5?style=flat-square&logo=typescript&logoColor=fffff" />
